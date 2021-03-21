@@ -14,12 +14,12 @@ author:
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Call: "call.html"
-  Speakers&Panelist: "speakers.html"
-  Schedule: "schedule.html"
+  Call: "call"
+  Speakers&Panelist: "speakers"
+  Schedule: "schedule"
   Resources:
-    - TaxiNLI: "taxinli.html"
-    - CheckList: "checklist.html"
+    - TaxiNLI: "taxinli"
+    - CheckList: "checklist"
 
 # --- Logo --- #
 
