@@ -41,11 +41,11 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "t-soadit@microsoft.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+# facebook: deanattali
+  github: adityaSomak
+  twitter: somakaditya
+# patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
