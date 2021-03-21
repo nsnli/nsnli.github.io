@@ -15,7 +15,7 @@ author:
 
 navbar-links:
   Call: "call"
-  Speakers&Panelist: "speakers"
+  Speakers: "speakers"
   Schedule: "schedule"
   Resources:
     - TaxiNLI: "taxinli"
@@ -28,7 +28,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "t-soadit@microsoft.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nsnli.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
