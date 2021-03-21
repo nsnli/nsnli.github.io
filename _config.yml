@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: NSNLI
 
 # Your name to show in the footer
-author: Some Person
+author: 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Call: "call.html"
+  Speakers&Panelist: "speakers.html"
+  Schedule: "schedule.html"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - TaxiNLI: "taxinli.html"
+    - CheckList: "checklist.html"
 
 # --- Logo --- #
 
