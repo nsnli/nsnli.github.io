@@ -4,17 +4,16 @@ title: NSNLI
 subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 ---
 
-<h2>Introduction</h2>
-
+<!-- <h2>Introduction</h2> -->
 <p>The ability to understand natural language has been a long-standing dream of the AI community. In the past decade, 
 using representative tasks such as Natural Language Inference (NLI) and large publicly available datasets, the community 
-has made impressive progress using machine learning (especially deep learning) tecnhiques. Recently, various researchers showed
-how the state-of-the-art (SOTA) data-driven deep learning models are brittle, often generalize poorly, and 
-rely on hidden patterns in the data than actually reason to derive the conclusion. While many analyses have traced the root 
-cause of such behavior to shortcomings in public datasets, recent work (TaxiNLI, and CheckList) also showed that the models 
-generalize poorly even in presence of adequate amounts of data. Recent ACL 2020 theme papers trace these shortcomings back 
-to the core idea behind data-driven (supervised and un-supervised) training paradigm. Through proposing an Octopus-test, Bender and Koller suggested 
-that a model of Natural Language “trained purely on form will never learn meaning”. </p>
+has made impressive progress towards that goal using machine learning (especially deep learning) tecnhiques. 
+Recently, various researchers showed how the state-of-the-art (SOTA) data-driven deep learning models are brittle, often 
+generalize poorly, and rely on hidden patterns in the data than actually reason to derive the conclusion. While many analyses 
+have traced the root cause of such behavior to shortcomings in public datasets, recent work (TaxiNLI, and CheckList) also showed that the models 
+generalize poorly even in presence of adequate amounts of data. A recent ACL 2020 theme paper (by Bender and Koller) trace these shortcomings back 
+to the core idea behind data-driven (supervised and un-supervised) training paradigm. Through proposing an Octopus-test, the authors suggest 
+that a model of Natural Language “trained purely on <i>form</i> will never learn <i>meaning</i>". </p>
 
 <p></p>Such lack of grounding to the real world and lack of interpretability, begs the question, whether the vast literature of Symbolic Logic may come to the rescue. Advances of
 statistical learning based on the concepts from Logic, has been (re)coined under the umbrella of Neuro-symbolic methods. The recent famed AI Debates have seen participation
@@ -29,11 +28,12 @@ as NLI is still non-trivial.</p>
 Theorem Proving, and ML procedure integration efforts with programming languages (PL+ML). Hence, it is legitimate to revisit the potential and practicality of Neuro-Symbolic
 methods in natural language reasoning.</p>
 
-<h3>Goal of the Workshop</h3> Our goal is to track efforts towards algorithmic (or logical) generalization in the presence of linguistic variability. Specifically, we pose the 
-following questions: 1) are there linguistic and logical combinations where neural methods fail to generalize even with
-large amounts of data, 2) can neuro-symbolic methods (or ML+PL) generalize for certain combinations, and 3) can we track such capability-wise 
-success more explicitly with benchmarks informed by such linguistic and logical factors. We believe this would be the first workshop to bring together researchers from Deep
-Learning, Symbolic Logic, and Programming Languages in the same platform. 
+<h3>Goal of the Workshop</h3> The broader goal of NLU requires generalization in various reasoning aspects in the presence of linguistic variability, and 
+this is hard. Instead, we want to take specific reasoning dimensions, informed by Logic, Knowledge Representation and Reasoning, and Linguistics literature; and track
+the progress of both Neural and Neuro-Symbolic efforts.
+Specifically, we are interested in the following questions: 1) are there linguistic and logical combinations where neural methods fail to generalize 
+even with large amounts of data, 2) can neuro-symbolic methods (or ML+PL) generalize better for certain reasoning dimensions, and 
+3) can we build more informed benchmarks (datasets and metrics) that track such reasoning capability-wise success more explicitly.
 
 <h2> Organizing Committee </h2>
 
