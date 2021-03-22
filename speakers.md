@@ -9,8 +9,10 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 We will update the list of speakers shortly!
 
 
-<h2>Program Committee (Tentative)</h2>
-Leon Weber, Humboldt University <br>
+<h2>Program Committee</h2>
+
+The list will be updated Shortly.
+<!-- Leon Weber, Humboldt University <br>
 Luc de Raedt, KU Leuven <br>
 Arun Iyer, Microsoft Research India <br>
 Vivek Srikumar, University of Utah <br>
@@ -30,4 +32,4 @@ Kevin Ellis, Cornell University <br>
 Alex Polozov, Microsoft Research <br>
 Charles Sutton, Google Brain <br>
 Rishabh Singh, Google <br>
-Aws Albarghouthi, Wisconsin 
+Aws Albarghouthi, Wisconsin  -->
