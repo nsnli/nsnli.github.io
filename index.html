@@ -4,92 +4,89 @@ title: NSNLI
 subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 ---
 
-<h2>Introduction</h2>
+<!-- <h2>Introduction</h2> -->
+<p>The ability to understand natural language has been a long-standing dream of the AI community. In the past decade, 
+using representative tasks such as Natural Language Inference (NLI) and large publicly available datasets, the community 
+has made impressive progress towards that goal using machine learning (especially deep learning) tecnhiques. 
+Recently, various researchers showed how the state-of-the-art (SOTA) data-driven deep learning models are brittle, often 
+generalize poorly, and rely on hidden patterns in the data than actually reason to derive the conclusion. While many analyses 
+have traced the root cause of such behavior to shortcomings in public datasets, recent work (TaxiNLI, and CheckList) also showed that the models 
+generalize poorly even in presence of adequate amounts of data. A recent ACL 2020 theme paper (by Bender and Koller 2020) trace these shortcomings back 
+to the core idea behind data-driven (supervised and un-supervised) training paradigm. Through proposing an Octopus-test, the authors suggest 
+that a model of Natural Language “trained purely on <i>form</i> will never learn <i>meaning</i>". </p>
 
-Natural Language Understanding (NLU) is a crucial ability for building intelligent agents that
-operate autonomously and effectively in social settings with humans. Such agents are
-expected to learn, think, reason, understand, act, and explain their actions like humans do. In
-the NLU context, this translates to the abilities of concept grounding, multi-step reasoning,
-reasoning with common knowledge, and explaining the reasoning steps. Hence, the
-fundamental goal of this workshop is to track and benchmark the research efforts that have
-targeted building systems that can reason about natural language and can explain the steps
-of such reasoning. We take the Natural Language Inference (NLI) task as a representative
-task. The NLI task is regularly touted as a representative task to test natural language
-understanding as it tests a large variety of reasoning capabilities. Specifically, the task tests
-whether a hypothesis (H) in text contradicts with, is entailed by, or is neutral with respect to a
-given premise (P) text. Such a decision involves a variety (and often a mix of) multiple
-linguistic and logical reasoning capabilities.
+<p></p>Such lack of grounding to the real world and lack of interpretability, begs the question, whether the vast literature of Symbolic Logic may come to the rescue. Advances of
+statistical learning based on the concepts from Logic, has been (re)coined under the umbrella of Neuro-symbolic methods. The recent famed AI Debates have seen participation
+from top researchers in Deep Learning, Symbolic Logic, Psychology, and Cognitive Science. Researchers together have cast doubt about whether pure data-driven methods based on
+Neural Architectures would be sufficient to achieve understanding and whether current popular benchmarks reflect relevant aspects of understanding. Parallelly, neuro-symbolic
+methods have proliferated from rule-based auxiliary objective formulation, simple pipelined execution of sequential data-driven learning followed by probabilistic logical methods; to
+neural architectures defined by declarative logic, and more end-to-end learnable systems. But a closer look at the 
+current Neuro-symbolic systems (NLProlog, DeepProbLog) tells us that extensions of such methods to a practical in-the-wild task such
+as NLI is still non-trivial.</p>
 
-<h2>Limitations of Current Approaches</h2>
-Recently, various work (including ours) have shown
-how the state-of-the-art (SOTA) models based on data-driven deep learning methods are
-brittle, often generalize poorly, and rely on hidden patterns in the data than actually reason to
-derive the conclusion. While many analyses have traced the root cause of such behavior to
-shortcomings in public datasets, recent work (TaxiNLI [1], CheckList [2], InfoTABS [3]) also
-shows that the models generalize poorly even in presence of adequate amounts of data.
-Recent ACL 2020 theme papers trace these shortcomings back to the core idea behind
-data-driven training paradigm. Through proposing an Octopus-test, Bender and Koller 2020
-[4] suggests that a model of Natural Language “trained purely on form will never learn
-meaning”. Such lack of grounding to the real world and lack of interpretability, begs the
-question, whether the vast literature of Symbolic Logic may come to the rescue. Advances of
-statistical learning based on the concepts from Logic, has been (re)coined under the
-umbrella of Neuro-symbolic methods. The recent famed AI Debates have seen participation
-from top researchers in Deep Learning, Symbolic Logic, Psychology, and Cognitive Science.
-Researchers together have cast doubt about whether pure data-driven methods based on
-Neural Architectures would be sufficient to achieve understanding and whether current
-popular benchmarks reflect relevant aspects of understanding. Parallelly, neuro-symbolic
-methods have proliferated from rule-based auxiliary objective formulation, simple pipelined
-execution of sequential data-driven learning followed by probabilistic logical methods; to
-neural architectures defined by declarative logic, and more end-to-end learnable systems.
-Recently, work such as NLProlog [5], has shown to effectively answer multi-hop questions,
-and show the intermediate hops. But a closer look at the system (and related ones such as
-DeepProbLog [6]) tells us that extensions of such methods to a practical in-the-wild task such
-as NLI is still non-trivial. Slightly independently, the ML community has also seen rapid
-improvements in new architectures employed for multi-hop reasoning for Automated
-Theorem Proving, and ML procedure integration efforts with programming languages
-(PL+ML). Hence, it is legitimate to revisit the potential and practicality of Neuro-Symbolic
-methods in natural language reasoning.
+<p>Slightly independently, the ML community has also seen rapid improvements in new architectures employed for multi-hop reasoning for Automated
+Theorem Proving, and ML procedure integration efforts with programming languages (PL+ML). Hence, it is legitimate to revisit the potential and practicality of Neuro-Symbolic
+methods in natural language reasoning.</p>
+
+<h3>Goal of the Workshop</h3> The broader goal of NLU requires generalization in various reasoning aspects in the presence of linguistic variability, and 
+this is hard. Instead, we want to take specific reasoning dimensions, informed by Logic, Knowledge Representation and Reasoning, and Linguistics literature; and track
+the progress of both Neural and Neuro-Symbolic efforts.
+Specifically, we are interested in the following questions: 1) are there linguistic and logical combinations where neural methods fail to generalize 
+even with large amounts of data, 2) can neuro-symbolic methods (or ML+PL) generalize better for certain reasoning dimensions, and 
+3) can we build more informed benchmarks (datasets and metrics) that track such reasoning capability-wise success more explicitly.
 
 <h2> Organizing Committee </h2>
 
 <br>
 
 <div class="row">
-	<div class="col-sm-3 text-center" style="height: 400px">
-	  <img src="assets/img/1.jpg" style="height:260px; width: 300px;margin:5px;border-radius: 50%"/>
+	<div class="col-sm-3 text-center" style="height: 250px">
+	  <img src="assets/img/1.jpg" style="height:150px; width: 150px;margin:5px;border-radius: 50%"/>
 	  <br/>
-	  <a href="https://adityasomak.github.io/">Dr. Somak Aditya</a>
+	  <a href="https://adityasomak.github.io/">Somak Aditya</a>
 	  <br/>
 	  Microsoft Research India
 	</div>
-	<div class="col-sm-3 text-center" style="height: 400px">
-	  <img src="assets/img/2.jpg" style="height:260px; width: 300px;margin:5px;border-radius: 50%"/>
+	<div class="col-sm-3 text-center" style="height: 250px">
+	  <img src="assets/img/2.jpg" style="height:150px; width: 150px;margin:5px;border-radius: 50%"/>
 	  <br/>
-	  <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Maria.Chang">Dr. Maria D. Chang</a>
+	  <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Maria.Chang">Maria D. Chang</a>
 	  <br/>
 	  IBM Research Almaden
 	</div>
-	<div class="col-sm-3 text-center" style="height: 400px">
-	  <img src="assets/img/3.jpg" style="height:260px; width: 300px;margin:5px;border-radius: 50%"/>
+	<div class="col-sm-3 text-center" style="height: 250px">
+	  <img src="assets/img/3.jpg" style="height:150px; width: 150px;margin:5px;border-radius: 50%"/>
 	  <br/>
-	  <a href="https://www.cs.utexas.edu/people/faculty-researchers/swarat-chaudhuri">Prof. Swarat Chaudhuri</a>
+	  <a href="https://www.cs.utexas.edu/people/faculty-researchers/swarat-chaudhuri">Swarat Chaudhuri</a>
 	  <br/>
 	  UT Austin
 	</div>
-	<div class="col-sm-3 text-center" style="height: 400px">
-	  <img src="assets/img/4.jpg" style="height:260px; width: 300px;margin:5px;border-radius: 50%"/>
-	  <br/>
-	  <a href="https://www.microsoft.com/en-us/research/people/monojitc/">Dr. Monojit Choudhury</a>
-	  <br/>
-	  Microsoft Research India
-	</div>
 </div>
 <div class="row"> 
-	<div class="col-sm-3 text-center" style="height: 400px">
-	  <img src="assets/img/5.jpg" style="height:260px; width: 300px;margin:5px;border-radius: 50%"/>
+	<div class="col-sm-3 text-center" style="height: 250px">
+		<img src="assets/img/4.jpg" style="height:150px; width: 150px;margin:5px;border-radius: 50%"/>
+		<br/>
+		<a href="https://www.microsoft.com/en-us/research/people/monojitc/">Monojit Choudhury</a>
+		<br/>
+		Microsoft Research India
+	  </div>
+	<div class="col-sm-3 text-center" style="height: 250px">
+	  <img src="assets/img/5.jpg" style="height:150px; width: 150px;margin:5px;border-radius: 50%"/>
 	  <br/>
-	  <a href="https://sebdumancic.github.io/">Dr. Sebastijan Dumančić</a>
+	  <a href="https://sebdumancic.github.io/">Sebastijan Dumančić</a>
 	  <br/>
 	  KU Leuven
 	</div>
 </div>
+
+<h2>List of Comparable Workshops</h2>
+<ul>
+	<li> <a href="https://sites.google.com/site/krr2015/">Knowledge Representation and Reasoning: Integrating Symbolic and Neural
+		Approaches</a></li>
+	<li>  <a href="https://sites.google.com/view/nesy20/home"> International Workshop Neuro-Symbolic Learning and Reasoning </a></li>
+	<li> <a href="http://semdeep.iiia.csic.es/">Workshop on Semantic Deep Learning (SemDeep) </a></li>
+	<li> <a href="https://sites.google.com/view/r2k2018/home"> R2K: Integrating learning of Representations and models with deductive
+		Reasoning that leverages Knowledge</a></li>
+	<li> <a href="http://www.starai.org/2020/">StarAI workshop series</a></li>
+
+</ul>
