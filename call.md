@@ -5,7 +5,7 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 ---
 
 <h2>Call For Papers</h2>
-We invite authors to submit <b>short and positional papers in IJCAI double-column</b> format discussing the reasoning aspects in natural language understanding tasks:
+We invite authors to submit <b>short and positional papers in IJCAI double-column</b> format (<a href="https://www.ijcai.org/authors_kit">Author's Kit</a>) discussing the reasoning aspects in natural language understanding tasks:
 <ul><li> <b>Short papers (maximum 4 pages, excluding references)</b> should discuss a technical contribution or datasets creating/curation/modification related to reasoning aspects in NLU tasks. Short papers discussing technical contributions should include some validation of the idea, but we are not expecting an extensive and bullet-proof analysis; limited analysis is acceptable. Short papers discussing dataset aspects should provide some estimation of how existing methods perform on the new dataset.</li>
 <li> <b>Position papers (maximum 2 pages, excluding references)</b> can discuss ideas without evaluation but have to make them concrete and actionable. The impact of the idea should be clear.</li>
 </ul>

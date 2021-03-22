@@ -6,9 +6,37 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 
 ## TaxiNLI
 
-Pre-trained Transformer based neural architectures have consistently achieved state-of-the-art performance in the Natural Language Inference (NLI) task. Since NLI examples encompass a variety of linguistic, logical and reasoning phenomena, it remains unclear as to which specific concepts are learnt by the trained systems and where they can achieve strong generalization. To investigate this question, we propose a taxonomic hierarchy of categories that are relevant for the NLI task. We introduce TAXINLI, a new dataset, that has 6872 examples from the MNLI dataset (<a href="https://www.aclweb.org/anthology/N18-1101/">Williams et al., 2018</a>) with these taxonomic labels.
+Examples in the Natural Language Inference (NLI) task often encompass a variety of linguistic, logical and reasoning phenomena, and it remains unclear as to which specific concepts are learnt by the state-of-the-art systems and where they can achieve strong generalization. To investigate this question, authors in [TaxiNLI: Taking a ride up the NLU Hill](https://www.aclweb.org/anthology/2020.conll-1.4.pdf) proposed a taxonomic hierarchy of categories that are relevant for the NLI task. Authors introduce the TaxiNLI dataset, that has 10k examples from the MNLI dataset (<a href="https://www.aclweb.org/anthology/N18-1101/">Williams et al., 2018</a>) with these taxonomic labels.
 
-Our taxonomic categorization is meant to serve as a set of necessary inferencing capabilities that one would expect a competing NLI system to possess; thereby promoting more probing tasks along unexplored categories. Our categorization is based on the following principles. First, we take a model-agnostic approach, where we work from the first principles to arrive at a set of basic inferencing processes that are required in NLI task. These include an unrestricted variety of linguistic and logical phenomena, and may require knowledge beyond text, thus providing us with the higher-level categories: linguistic, logical and knowledge-based. Second, we retain categories that are non-overlapping and sufficiently represented in NLI datasets. For example, for subcategories under linguistic, we prune semantics because necessary aspects are covered by logical and knowledge-based categories. We omit specific aspects of pragmatics such as implicatures and pre-suppositions, as they are rarely observed in NLI datasets (<a href="https://www.aclweb.org/anthology/2020.acl-main.768/">Jeretic et al., 2020</a>).
+<center><img src="../assets/img/taxonomy.png"></center>
+
+The official release of the TaxiNLI dataset can be found [here](https://github.com/microsoft/TaxiNLI). Essentially each row in this data corresponds to an NLI example in the MultiNLI dataset (can be identified using pairID and genre). There are 15 reasoning categories, namely:
+- Linguistic: lexical, syntactic, factivity
+- Logic: 
+   - negation, boolean, quantifier, conditional, comparative, 
+   - relational reasoning, spatial reasoning, temporal reasoning, causal reasoning, coreference reasoning
+- Knowledge: world_knowledge, taxonomic_knowledge
+
+These 15 binary features indicate whether a certain kind of reasoning capability is required to perform the inference for that example. For unrelated neutral examples, authors add three more binary features (general_q2, subject_q2, object_q2).
+
+### [Dataset Download](https://github.com/microsoft/TaxiNLI)
+### [Link to Paper](https://www.aclweb.org/anthology/2020.conll-1.4/)
+
+# TaxiNLI Statistics
+
+Statistics |  |
+--- | --- |
+Total Datapoints | 10071 | 
+Overlap with MNLI | 2343 (train), 7728 (dev) | 
+Avg. Datapoints per Domain | 1007.1 | 
+Datapoints per NLI label | 3374 (C), 3201 (N), 3494 (E) | 
+Avg. Categories per example | 1.6 |
+Neutral Example Stats | 3087 (Same topic), 2843 (Same object), 877 (Same subject)|
+
+
+# More about the Taxonomy
+
+The taxonomic categorization is meant to serve as a set of necessary inferencing capabilities that one would expect a competing NLI system to possess; thereby promoting more probing tasks along unexplored categories. Our categorization is based on the following principles. First, we take a model-agnostic approach, where we work from the first principles to arrive at a set of basic inferencing processes that are required in NLI task. These include an unrestricted variety of linguistic and logical phenomena, and may require knowledge beyond text, thus providing us with the higher-level categories: linguistic, logical and knowledge-based. Second, we retain categories that are non-overlapping and sufficiently represented in NLI datasets. 
 
 **High-Level Categories:** The Linguistic category represents NLI examples where the inference process to determine the entailment are internal to the provided text. We classify examples as Logical when the inference process may involve processes external to text, such as mapping words to percepts and reason with them (<a href="https://www.springer.com/gp/book/9789048188444">Sowa, 2010</a>). Knowledge-based category represents examples where some form of external, domain or commonly assumed knowledge is required for inferencing.
 Linguistic category is further sub-divided into lexical, syntactic, and factivity. 
@@ -26,7 +54,4 @@ Lastly, we define two sub-categories under Knowledge, namely world and taxonomic
 1. World: Examples that require knowledge about named entities, knowledge about historical, current events; and domain-specific knowledge. Example: (world) P: Michelle Obama stayed in the White House during 2009-17. H: Michelle was living in the White House legally during 2009.
 2. Taxonomic: Examples that require taxonomies and hierarchies. For example, IsA, hasA, hasProperty relations. Example: (taxonomic) P: Norman hated all musical instruments. H: Norman loves the piano.
 
-<center><img src="../assets/img/taxonomy.png"></center>
 
-### [Dataset Download]()
-### [Link to Paper](https://www.aclweb.org/anthology/2020.conll-1.4/)
