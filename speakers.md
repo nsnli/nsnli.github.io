@@ -11,7 +11,7 @@ We will update the list of speakers shortly!
 
 <h2>Program Committee</h2>
 
-The list will be updated Shortly.
+We expect to have representative PC members from the Reasoning, Deep Learning, NLP, and Program Synthesis community.  We will update the list shortly!
 <!-- Leon Weber, Humboldt University <br>
 Luc de Raedt, KU Leuven <br>
 Arun Iyer, Microsoft Research India <br>
