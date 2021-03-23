@@ -13,7 +13,7 @@ We invite authors to submit <b>short and positional papers in IJCAI double-colum
 We seek papers that explore NLU topics on the shared resources which, we believe, can kick-start the analysis of different models along specific reasoning dimensions. The shared resources include:
 <ul>
 <li> The <a href="https://nsnli.github.io/taxinli/">TaxiNLI</a> dataset is from a recent <a href="https://www.aclweb.org/anthology/2020.conll-1.4.pdf">CoNLL 2020</a> work, which introduces a taxonomy of 15 reasoning capabilities inspired from first principles of Language and Logic. The authors also released a large part of the MultiNLI dataset re-annotated with reasoning categories required for inferencing. </li>
-<li> The <a href="https://nsnli.github.io/checklist/">CheckList</a> resource instructs how to create <a href="https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf">templatad test-suites</a> to specifically test different reasoning categories. </li>
+<li> The <a href="https://nsnli.github.io/checklist/">CheckList</a> resource instructs how to create <a href="https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf">templated test-suites</a> to specifically test different reasoning categories. </li>
 </ul>
 
 The short papers may involve: 
@@ -47,5 +47,5 @@ Camera Ready: June 30 (11:59pm AoE)<br>
 Workshop: August 21
 
 <h2>Submission Instructions</h2>
-TBA
+Submission Instructions will be updated shortly.
 

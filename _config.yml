@@ -9,7 +9,7 @@
 title: NSNLI
 
 # Your name to show in the footer
-author: 
+author: Website by Ishan Tarunesh, Somak Aditya
 
 # --- List of links in the navigation bar --- #
 
@@ -40,9 +40,9 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "t-soadit@microsoft.com"
+  email: "nsnli.ijcai21@gmail.com"
 # facebook: deanattali
-  github: adityaSomak
+# github: adityaSomak
   twitter: somakaditya
 # patreon: DeanAttali
 # youtube: c/daattali
