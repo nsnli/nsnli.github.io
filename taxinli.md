@@ -8,12 +8,15 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 
 Examples in the Natural Language Inference (NLI) task often encompass a variety of linguistic, and logical reasoning phenomena, and it remains unclear as to which specific concepts are learnt by the state-of-the-art systems and where they can achieve strong generalization. To investigate this question, authors in [TaxiNLI: Taking a ride up the NLU Hill](https://www.aclweb.org/anthology/2020.conll-1.4.pdf) proposed a taxonomic hierarchy of categories that are relevant for the NLI task. The taxonomy is shown below.
 
-<center><img src="../assets/img/taxonomy.png" width="40%" height="15%"></center>
+<figure>
+    <center><img src="../assets/img/taxonomy.png" width="40%" height="15%"></center>
+    <center><figcaption> Figure 1: Taxonomic Categorization of the NLI task </figcaption></center>
+</figure>
 
 Authors derive the high-level categories (<em>Linguistic</em>, <em>Logical</em>, and <em>Knowledge</em>) working from the first principles to arrive at a set of basic inferencing processes that are required in the NLI task. Then, authors use the following principles for retention and pruning of reasoning categories: 1) retain categories that are non-overlapping and sufficiently represented in the NLI datasets, 2) include a list of necessary sub-categories (inspired by prior work), and 3) restrict sub-divisions whenever the definitions get complicated.
 
-### TAXINLI Dataset 
-Authors introduce the TaxiNLI dataset, that has 10k examples from the MNLI dataset (<a href="https://www.aclweb.org/anthology/N18-1101/">Williams et al., 2018</a>) with these taxonomic labels. The official release of the TaxiNLI dataset can be found [here](https://github.com/microsoft/TaxiNLI). Essentially each row in this data corresponds to an NLI example in the MultiNLI dataset (can be identified using pairID and genre). There are 15 reasoning categories, namely:
+### TaxiNLI Dataset 
+Authors introduce the TaxiNLI dataset, that has 10k examples from the MNLI dataset (<a href="https://www.aclweb.org/anthology/N18-1101/">Williams et al., 2018</a>) with these taxonomic labels ([Official Release](https://github.com/microsoft/TaxiNLI)). Essentially each row in this data corresponds to an NLI example in the MultiNLI dataset (can be identified using pairID and genre). There are 15 reasoning categories, namely:
 - Linguistic: lexical, syntactic, factivity
 - Logic: 
    - negation, boolean, quantifier, conditional, comparative, 
