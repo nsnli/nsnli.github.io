@@ -22,3 +22,5 @@ The table below lists a few templates along with the capability being tested by 
 
 In the above templates `{NAME}`, `{ADJ}`, `{COM ADJ}`, `{SUP ADJ}`, `{CITY}`, `{COUNTRY}`, `{YEAR}` are placeholders which can be populated with different values (satisfying the condition) to generated a large number of test examples. We distinguish multiple use of same placeholders using numbers to identify them (`{NAME1}`, `{NAME2}`, ... etc will be filled with distinct values)
 
+<p><b>TBA:</b> We will soon share a Jupyter Notebook with instructions for how to generate test-suites for the above templates. </p>
+
