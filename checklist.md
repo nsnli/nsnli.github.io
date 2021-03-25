@@ -22,5 +22,5 @@ The table below lists a few templates along with the capability being tested by 
 
 In the above templates `{NAME}`, `{ADJ}`, `{COM ADJ}`, `{SUP ADJ}`, `{CITY}`, `{COUNTRY}`, `{YEAR}` are placeholders which can be populated with different values (satisfying the condition) to generated a large number of test examples. We distinguish multiple use of same placeholders using numbers to identify them (`{NAME1}`, `{NAME2}`, ... etc will be filled with distinct values)
 
-<p><b>TBA:</b> We will soon share a Jupyter Notebook with instructions for how to generate test-suites for the above templates. </p>
+Click ![here](https://github.com/nsnli/nsnli.github.io/blob/master/CheckListNLI.ipynb) to download the Jupyter Notebook illustrating the use of checklist to create templates. The full set of tutorials on using CheckList can be found ![here](https://github.com/marcotcr/checklist/tree/master/notebooks/tutorials)
 
