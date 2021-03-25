@@ -48,5 +48,8 @@ Camera Ready: June 30 (11:59pm AoE)<br>
 Workshop: August 21
 
 <h2>Submission Instructions</h2>
-Submission Instructions will be updated shortly.
+Submissions to the workshop are limited to 4 pages of content (excluding references and appendices). Please note, while making decisions, the reviewers may not consider the appendix content. The submission process is single-blind.
 
+All submissions must be in IJCAI double-column format (<a href="https://www.ijcai.org/authors_kit">IJCAI 2021 Author's Kit</a>).
+
+Submission link: <a href="https://openreview.net/group?id=ijcai.org/IJCAI/2021/Workshop/NSNLI">OpenReview Site</a>. 
