@@ -11,8 +11,17 @@ We will update the list of speakers shortly!
 
 <h2>Program Committee</h2>
 
-We expect to have representative PC members from the Reasoning, Deep Learning, NLP, and Program Synthesis community.  We will update the list shortly!
-<!-- Leon Weber, Humboldt University <br>
+Arun Iyer, Microsoft Research India <br>
+Charles Sutton, Google Brain <br>
+Kartik Talamadapula (IBM Research) <br>
+Leon Weber, Humboldt University of Berlin <br>
+Matko Bošnjak, UCL <br>
+Robin Manhaeve, KU Leuven <br>
+Thomas Demeester, Ghent University <br>
+
+We expect to have representative PC members from the Reasoning, Deep Learning, NLP, and Program Synthesis community.  We will update the list as we add more PC members! <br>
+
+<!-- 
 Luc de Raedt, KU Leuven <br>
 Arun Iyer, Microsoft Research India <br>
 Vivek Srikumar, University of Utah <br>
