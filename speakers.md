@@ -13,7 +13,7 @@ We will update the list of speakers shortly!
 
 Arun Iyer, Microsoft Research India <br>
 Charles Sutton, Google Brain <br>
-Kartik Talamadapula (IBM Research) <br>
+Kartik Talamadapula, IBM Research <br>
 Leon Weber, Humboldt University of Berlin <br>
 Matko Bošnjak, UCL <br>
 Robin Manhaeve, KU Leuven <br>
