@@ -53,3 +53,5 @@ Submissions to the workshop are limited to 4 pages of content (excluding referen
 All submissions must be in IJCAI double-column format (<a href="https://www.ijcai.org/authors_kit">IJCAI 2021 Author's Kit</a>).
 
 Submission link: <a href="https://openreview.net/group?id=ijcai.org/IJCAI/2021/Workshop/NSNLI">OpenReview Site</a>. 
+
+Please note, accepted papers in this workshop will not be archival in nature (in the sense that we do not wish to publish an official proceedings).
