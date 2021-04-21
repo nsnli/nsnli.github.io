@@ -58,6 +58,7 @@ Talk Title and Abstract to be updated!
 <h2>Program Committee</h2>
 
 Arun Iyer, Microsoft Research India <br>
+Aws Albarghouthi, University of Wisconsin-Madison <br>
 Chandra Bhagavatula, AI2 <br>
 Charles Sutton, Google Brain <br>
 Kartik Talamadapula, IBM Research <br>
