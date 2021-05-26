@@ -3,7 +3,7 @@ layout: page
 title: NSNLI
 subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
 ---
-<p style="border:1px; border-style:solid; border-color:#005cb9; padding: 1em; background-color:#f1f5f9"> Submission deadline extended to <b>May 15 (11:59pm UTC-0)</b> (Final Extension).</p>
+<!-- <p style="border:1px; border-style:solid; border-color:#005cb9; padding: 1em; background-color:#f1f5f9"> Submission deadline extended to <b>May 15 (11:59pm UTC-0)</b> (Final Extension).</p> -->
 <h2>Call For Papers</h2>
 
 We invite authors to submit <b>short and positional papers in IJCAI double-column</b> format (<a href="https://www.ijcai.org/authors_kit">Author's Kit</a>) discussing the reasoning aspects in natural language understanding tasks:
@@ -42,7 +42,7 @@ The short papers may involve:
 
 
 <h2>Important Dates</h2>
-Submission: <b> <s> May 1</s> May 15 (11:59pm UTC-0) </b> <br>
+Submission: <s> May 15 (11:59pm UTC-0) </s> <br>
 Notification: May 25 (11:59pm AoE)<br>
 Camera Ready: June 30 (11:59pm AoE)<br>
 Workshop: August 21
@@ -50,7 +50,7 @@ Workshop: August 21
 <h2>Submission Instructions</h2>
 Submissions to the workshop are limited to 4 pages of content (excluding references and appendices). Please note, while making decisions, the reviewers may not consider the appendix content. The submission process is single-blind. 
 
-<b>We are also happy to announce that we are inviting re-submissions from top NLP and AI (ACL, EMNLP, ICLR, IJCAI and AAAI) venues to broaden the coverage of topics. If you would like to present re-submissions, please send your formatted non-anonymized draft directly to nsnli.ijcai21@gmail.com with Title, Abstract, List of Authors, and the name of the Accepted Venue.</b>
+We are also happy to announce that we are inviting re-submissions from top NLP and AI (ACL, EMNLP, ICLR, IJCAI and AAAI) venues to broaden the coverage of topics. If you would like to present re-submissions, please send your formatted non-anonymized draft directly to nsnli.ijcai21@gmail.com with Title, Abstract, List of Authors, and the name of the Accepted Venue.
 
 All submissions must be in IJCAI double-column format (<a href="https://www.ijcai.org/authors_kit">IJCAI 2021 Author's Kit</a>).
 
