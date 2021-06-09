@@ -48,7 +48,7 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
     <div class="col">
         <div class="col-md-12" id="abosselut">
         <b> Talk Title & Abstract</b>: TBA
-        <p><b> Speaker Bio</b>: (To be Updated) Antoine Bosselut is a postdoctoral computer science researcher at Stanford University and incoming assistant professor at the École Polytechnique Fédéral de Lausanne (EPFL) in Switzerland. Bosselut's research examines how modern machine learning tools should interact with human knowledge. He was recently named as one of the Forbes 30 under 30 list for Science and Healthcare.</p>
+        <p><b> Speaker Bio</b>: Antoine Bosselut is a Postdoctoral Scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He will join the École Polytechnique Fédéral de Lausanne (EPFL) as an assistant professor in 2021. He received his PhD at the University of Washington in 2020. He was recently named as one of the Forbes 30 under 30 list for Science and Healthcare. His research is on building knowledge-aware NLP systems, specializing in commonsense representation and reasoning. </p>
         </div>
     </div>
 </div>
