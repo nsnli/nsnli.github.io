@@ -43,7 +43,7 @@ The short papers may involve:
 
 <h2>Important Dates</h2>
 Submission: <s> May 15 (11:59pm UTC-0) </s> <br>
-Notification: May 25 (11:59pm AoE)<br>
+Notification: <s>May 25 (11:59pm AoE)</s> <br>
 Camera Ready: June 30 (11:59pm AoE)<br>
 Workshop: August 21
 
