@@ -11,7 +11,7 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
         <br/>
         <a href="http://www.cs.columbia.edu/~smara/">Smaranda Muresan</a>
         <br/>
-        Combia University
+        Columbia University
     </div>
     <div class="col">
         <div class="col-md-12" id="smuresan">
