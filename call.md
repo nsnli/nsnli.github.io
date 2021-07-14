@@ -44,8 +44,8 @@ The short papers may involve:
 <h2>Important Dates</h2>
 Submission: <s> May 15 (11:59pm UTC-0) </s> <br>
 Notification: <s>May 25 (11:59pm AoE)</s> <br>
-Camera Ready: June 30 (11:59pm AoE)<br>
-Workshop: August 21
+Camera Ready: <s>June 30 (11:59pm AoE)</s><br>
+Workshop: Aug 21 (2PM – 8PM) UTC Montreal Morning, Aug 22 (12AM – 6AM) UTC Montreal Evening
 
 <h2>Submission Instructions</h2>
 Submissions to the workshop are limited to 4 pages of content (excluding references and appendices). Please note, while making decisions, the reviewers may not consider the appendix content. The submission process is single-blind. 
