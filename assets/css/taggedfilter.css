@@ -5,3 +5,42 @@
 [data-toggle='off'] {
     display:none;
 }
+
+/* Table */
+
+table tr:nth-child(2n) {
+    background-color: #FFFFFF;
+}
+.wp-block-table thead th {
+	border-bottom: 2px solid rgb(95, 94, 94);
+	padding-bottom: 0.5em;
+}
+
+.wp-block-table tr {
+	border-bottom: 2px solid rgb(148, 148, 148);
+}
+
+.wp-block-table th,
+.wp-block-table td {
+	border: 0;
+    background: transparent;
+}
+
+.rtl .wp-block-table th,
+.rtl .wp-block-table td {
+	text-align: right;
+    background: transparent;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 0 1.5em;
+    width: 100%;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    background-color: #FFFFFF;
+}

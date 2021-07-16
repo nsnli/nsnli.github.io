@@ -15,8 +15,12 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
     </div>
     <div class="col">
         <div class="col-md-12" id="smuresan">
-        <b> Talk Title & Abstract</b>: TBA
-        <p><b> Speaker Bio</b>: (To be Updated) Prof. Smaranda Muresan is a Research Scientist at the Data Science Institute (DSI) and the Department of Computer Science at Columbia University. She is also an Adjunct Associate Professor in the Department of Computer Science. Her research is focused on computational models for understanding language in context, such as social context, visual context or multilingual context, with application to computational social science, education and public health. Specific areas of interest are argument mining and persuasion, figurative language understanding and generation, multilingial language processing for low resource languages, NLP for social good. </p>
+        <b> Talk Title </b>: Knowledge-enhanced Text Generation: The Curious Case of Figurative Language and Argumentation <br>
+        <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo0" style="background-color:#fff;color:#1e17b8;border:none;padding-left: 0px;font-size:large"><b> Abstract >></b></button><br>
+        <div id="demo0" class="collapse">
+            Research in computational models for understanding figurative language and argumentation has seen a lot of progress in recent years. However, generation models for these tasks have been under-explored. There are two main challenges we have to address to make progress in this space: 1) the need to model common sense and/or connotative knowledge required for these tasks; and 2) the lack of large training data. I will present some of our recent work on knowledge-enhanced text generation for figurative language such as metaphor and simile, as well as argument reframing and enthymeme reconstruction. I will conclude by discussing opportunities and remaining challenges for incorporating knowledge in neural text generation systems.
+        </div>
+        <p><b> Speaker Bio</b>: Smaranda Muresan is a Research Scientist at the Data Science Institute and the Department of Computer Science at Columbia University and an Amazon Scholar. Before joining Columbia, she was a faculty member in the School of Communication and Information at Rutgers University where she co-founded the Laboratory for the Study of Applied Language Technologies and Society. At Rutgers, she was the recipient of the Distinguished Achievements in Research Award. Her research interests are in computational semantics and discourse, particularly figurative language understanding and generation, argument mining and generation, and fact-checking. Most recently, she has been interested in applying NLP to education and public health, as well as in building NLP technologies for low resource languages.  She received best papers awards at SIGDIAL 2017 and ACL 2018 (short paper). She is currently serving as a board member of the North American Chapter of the Association for Computational Linguistics (NAACL) and will serve as a Program Co-Chair for ACL 2022.  </p>
         </div>
     </div>
 </div>
@@ -63,8 +67,6 @@ subtitle: Is Neuro-Symbolic SOTA still a myth for Natural Language Inference?
         </div>
     </div>
 </div>
-
-Talk Title and Abstract to be updated!
 
 <h2>Program Committee</h2>
 
