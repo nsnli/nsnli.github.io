@@ -57,7 +57,7 @@ Schedule for the second Half-day session on August 22 (12am-6am UTC).
 </ul>
 <h2>Invited Papers</h2>
 <ul class="ping" style="list-style-type: circle;">
-<li data-tags="ps dl"><b>ProLinguist: Program Synthesis for Linguistics and NLP <a href="/assets/ProLinguist.pdf">[Paper]</a></b><br/>Partho Sarthi , Monojit Choudhury∗, Arun Iyer∗, Suresh Parthasarathy∗, Arjun Radhakrishna , Sriram Rajamani </li>
+<li data-tags="ps dl"><b>ProLinguist: Program Synthesis for Linguistics and NLP <a href="/assets/ProLinguist.pdf">[Paper]</a></b><br/>Partho Sarthi , Monojit Choudhury*, Arun Iyer*, Suresh Parthasarathy*, Arjun Radhakrishna , Sriram Rajamani </li>
 <li data-tags="ps dl">	<b>Flexible Operations for Natural Language Deduction <a href="/assets/Swarat.2021.nsnli.talk.pdf">[Paper]</a> </b><br/>Kaj Bostrom, Xinyu Zhao, Swarat Chaudhuri, Greg Durrett</li>
 <li data-tags="dl kg"><b>Natural Language Inference using External Knowledge <a href="/assets/Kapanipathi.pdf">[Paper]</a></b><br/>Pavan Kapanipathi</li>
 <li data-tags="pl"><b>Reasoning using DeepProbLog [Paper]</b><br/>Robin Manhaeve, Sebastijan Dumančić</li>

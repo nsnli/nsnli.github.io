@@ -38,8 +38,8 @@ function filterTag (filter, tag, hide=true) {
           items[i].setAttribute('data-toggle', 'off');
         } else {
           items[i].setAttribute('data-toggle', 'on');
-          items[i].parentElement.setAttribute('style', "list-style-type:circle;");
           items[i].setAttribute('display', "list-item")
+          items[i].parentElement.setAttribute('style', "list-style-type: circle;");
         }
       }
     }
