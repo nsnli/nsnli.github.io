@@ -8,37 +8,10 @@ css: /assets/css/taggedfilter.css
 
 <h2>Schedule</h2>
 
-<em>The following is a tentative schedule. Kindly expect some changes. </em><br>
+
 <!-- <figure class="wp-block-table"> -->
-Workshop will be two half-days: August 21 (2 pm &#8211; 7:30 pm UTC) and August 22 (12 am &#8211; 5 am UTC). 
-<table class="wp-block-table">
-<tbody>
-    <tr><td>2:00 &#8211; 2:30</td><td><strong>Welcome &amp; Introduction</strong><br></td></tr>
-    <tr><td>2:30 &#8211; 3:15</td><td><strong><span style="color: #ff6900">Keynote Talk 1</span>: Neuro-symbolic models for understanding complex questions</strong><br><em>Jonathan Berant</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
-    <tr><td>3:15 &#8211; 4:00</td><td><strong><span style="color: #ff6900">Keynote Talk 2</span>: Knowledge-enhanced Text Generation: The Curious Case of Figurative Language and Argumentation</strong><br><em>Smaranda Muresan</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
-    <tr><td>4:00 &#8211; 5:00</td><td><strong>Contributed Talks (15+5mins each)</strong> <br> A Generative-Symbolic Model for Logical Reasoning in NLU <a rel="noreferrer noopener" href="/assets/Paper_ID2.pdf" data-type="URL" target="_blank">paper</a> <br> 
-    Multi-hop Reasoning Analysis Based on The Bayesian Probability <a rel="noreferrer noopener" href="/assets/Paper_ID3.pdf" data-type="URL" target="_blank">paper</a> <br> 
-    How can BERT Understand High-level Semantics? <a rel="noreferrer noopener" href="/assets/Paper_ID4.pdf" data-type="URL" target="_blank">paper</a></td></tr>
-    <tr><td>5:00 &#8211; 5:30</td><td><strong>Coffee Break</strong><br></td></tr>
-    <tr><td>5:30 &#8211; 6:30</td><td><strong>Invited Papers (20+10mins each)</strong> <br> Flexible Operations for Natural Language Deduction <span style="color: #0693e3">paper</span> <br> Reasoning using DeepProbLog <span style="color: #0693e3">paper</span> </td></tr>
-    <tr><td>6:30 &#8211; 7:00</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>
-    <tr><td>7:00 &#8211; 7:30</td><td><strong>Session 1 Summary</strong><br></td></tr>
-</tbody>    
-</table>
-Schedule for the second Half-day session on August 22 (12 am &#8211; 5 am UTC).
-<!-- </figure> -->
-<table class="wp-block-table">
-<tbody>
-    <tr><td>12:30 &#8211; 1:00</td><td><strong>Brief Introduction and Feedback</strong><br></td></tr>
-    <tr><td>1:00 &#8211; 1:50</td><td><strong>Contributed Talks </strong> <br> (20 mins) Perception, Inference, and Memory: The Trinity of Machine Learning <a rel="noreferrer noopener" href="/assets/Paper_ID5.pdf" data-type="URL" target="_blank">paper</a> <br>  (30 min) Can Cognitive Neuroscience inform Neuro-Symbolic Inference Models? <a rel="noreferrer noopener" href="/assets/Paper_ID6.pdf" data-type="URL" target="_blank">paper</a></td></tr>
-    <tr><td>1:50 &#8211; 2:20</td><td><strong>Coffee Break</strong><br></td></tr>
-    <tr><td>2:20 &#8211; 3:20</td><td><strong>Invited Papers (20+10mins each)</strong> <br> Natural Language Inference using External Knowledge <span style="color: #0693e3">paper</span> <br> ProLinguist: Program Synthesis for Linguistics and NLP
- <span style="color: #0693e3">paper</span> </td></tr>
-    <tr><td>3:20 &#8211; 3:50</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>
-    <tr><td>3:50 &#8211; 4:35</td><td><strong><span style="color: #ff6900">Keynote Talk 3</span>: Symbolic Scaffolds for Neural Commonsense Representation and Reasoning</strong><br><em>Antoine Bosselut</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>  
-    <tr><td>4:35 &#8211; 5:00</td><td><strong>Workshop Closing Statement</strong><br></td></tr>
-</tbody>    
-</table>
+Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (12 am &#8211; 5 am UTC).  <em>There are some schedule changes, and we will update the final schedule shortly. </em><br>
+
 
 
 <button class="btn" data-filter="ping" data-reset="true" style="background-color:#fff;color:#1e17b8;border:none;padding-left: 0px;font-size:large">All</button>
