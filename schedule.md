@@ -8,10 +8,8 @@ css: /assets/css/taggedfilter.css
 
 <h2>Schedule</h2>
 
-
 <!-- <figure class="wp-block-table"> -->
-Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (12 am &#8211; 5 am UTC).  <em>There are some schedule changes, and we will update the final schedule shortly. </em><br>
-
+Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (6 am &#8211; 9:30 am UTC). The current tentative schedule is on <a href="https://nsnli.github.io/schedule1/">Schedule (To be updated)</a>.
 
 
 <button class="btn" data-filter="ping" data-reset="true" style="background-color:#fff;color:#1e17b8;border:none;padding-left: 0px;font-size:large">All</button>

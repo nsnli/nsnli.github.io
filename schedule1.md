@@ -8,9 +8,8 @@ css: /assets/css/taggedfilter.css
 
 <h2>Schedule</h2>
 
-<em>The following is a tentative schedule. Kindly expect some changes. </em><br>
 <!-- <figure class="wp-block-table"> -->
-Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (12 am &#8211; 5 am UTC). 
+Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (6 am &#8211; 9:30 am UTC). 
 <table class="wp-block-table">
 <tbody>
     <tr><td>2:00 &#8211; 2:15</td><td><strong>Welcome &amp; Introduction</strong><br></td></tr>
@@ -33,22 +32,21 @@ Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 
     <tr><td>6:45 &#8211; 7:15</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>
 </tbody>    
 </table>
-Schedule for the second Half-day session on August 22 (6 am &#8211; 9 am UTC).
+Schedule for the second Half-day session on August 22 (6:30 am &#8211; 9:30 am UTC).
 <!-- </figure> -->
 <table class="wp-block-table">
 <tbody>
-    <tr><td>6:30 &#8211; 6:50</td><td><strong>Invited and Contributed Talks </strong> 
+     <tr><td>6:00 &#8211; 6:30</td><td><strong>Welcome &amp; Session 1 Summary</strong><br></td></tr>
+    <tr><td>6:30 &#8211; 8:00</td><td><strong>Invited and Contributed Talks </strong> 
     <br> (20 mins) Perception, Inference, and Memory: The Trinity of Machine Learning <a rel="noreferrer noopener" href="/assets/Paper_ID5.pdf" data-type="URL" target="_blank">paper</a> 
-    </td></tr>
-    <tr><td>6:50 &#8211; 7:10</td><td><strong>Break</strong><br></td></tr>
-    <tr><td>7:10 &#8211; 8:20</td><td><strong>Invited & Contributed Talks </strong>  
-    <br> 
-    (30 min) ProLinguist: Program Synthesis for Linguistics and NLP
+    <br>
+    (25 min) ProLinguist: Program Synthesis for Linguistics and NLP
  <span style="color: #0693e3">paper</span>  
     <br> 
     (20 min) A Generative-Symbolic Model for Logical Reasoning in NLU <a rel="noreferrer noopener" href="/assets/Paper_ID2.pdf" data-type="URL" target="_blank">paper</a> <br> 
     (20 min) Multi-hop Reasoning Analysis Based on The Bayesian Probability <a rel="noreferrer noopener" href="/assets/Paper_ID3.pdf" data-type="URL" target="_blank">paper</a> 
     </td></tr>
+    <tr><td>8:00 &#8211; 8:20</td><td><strong>Break</strong><br></td></tr>
     <tr><td>8:20 &#8211; 8:45</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>  
     <tr><td>8:45 &#8211; 9:00</td><td><strong>Workshop Closing Statement</strong><br></td></tr>
 </tbody>    
