@@ -20,13 +20,11 @@ Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 
     <br> 
     (20 min) How can BERT Understand High-level Semantics? <a rel="noreferrer noopener" href="/assets/Paper_ID4.pdf" data-type="URL" target="_blank">paper</a> 
     <br> 
-    (25 min) Reasoning using DeepProbLog <span style="color: #0693e3">paper</span>
-    <br> 
-    (25 min) Natural Language Inference using External Knowledge <a rel="noreferrer noopener" href="/assets/Kapanipathi.pdf" data-type="URL" target="_blank">paper</a>
+    (30 min) Reasoning using DeepProbLog <span style="color: #0693e3">paper</span>
     <br>
-    (25 min) Can Cognitive Neuroscience inform Neuro-Symbolic Inference Models? <a rel="noreferrer noopener" href="/assets/Paper_ID6.pdf" data-type="URL" target="_blank">paper</a>
+    (30 min) Can Cognitive Neuroscience inform Neuro-Symbolic Inference Models? <a rel="noreferrer noopener" href="/assets/Paper_ID6.pdf" data-type="URL" target="_blank">paper</a>
     <br> 
-    (25 min) Flexible Operations for Natural Language Deduction <a rel="noreferrer noopener" href="/assets/Swarat.2021.nsnli.talk.pdf" data-type="URL" target="_blank">paper</a>
+    (30 min) Flexible Operations for Natural Language Deduction <a rel="noreferrer noopener" href="/assets/Swarat.2021.nsnli.talk.pdf" data-type="URL" target="_blank">paper</a>
     </td></tr>
     <tr><td>6:00 &#8211; 6:45</td><td><strong><span style="color: #ff6900">Keynote Talk 3</span>: Symbolic Scaffolds for Neural Commonsense Representation and Reasoning</strong><br><em>Antoine Bosselut</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
     <tr><td>6:45 &#8211; 7:15</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>
@@ -40,7 +38,7 @@ Schedule for the second Half-day session on August 22 (6:30 am &#8211; 9:30 am U
     <tr><td>6:30 &#8211; 8:00</td><td><strong>Invited and Contributed Talks </strong> 
     <br> (20 mins) Perception, Inference, and Memory: The Trinity of Machine Learning <a rel="noreferrer noopener" href="/assets/Paper_ID5.pdf" data-type="URL" target="_blank">paper</a> 
     <br>
-    (25 min) ProLinguist: Program Synthesis for Linguistics and NLP
+    (30 min) ProLinguist: Program Synthesis for Linguistics and NLP
  <a rel="noreferrer noopener" href="/assets/ProLinguist.pdf" data-type="URL" target="_blank">paper</a>  
     <br> 
     (20 min) A Generative-Symbolic Model for Logical Reasoning in NLU <a rel="noreferrer noopener" href="/assets/Paper_ID2.pdf" data-type="URL" target="_blank">paper</a> <br> 
