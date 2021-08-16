@@ -16,7 +16,7 @@ Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 
     <tr><td>2:15 &#8211; 3:00</td><td><strong><span style="color: #ff6900">Keynote Talk 1</span>: Neuro-symbolic models for understanding complex questions</strong><br><em>Jonathan Berant</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
     <tr><td>3:00 &#8211; 3:45</td><td><strong><span style="color: #ff6900">Keynote Talk 2</span>: Knowledge-enhanced Text Generation: The Curious Case of Figurative Language and Argumentation</strong><br><em>Smaranda Muresan</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
     <tr><td>3:45 &#8211; 4:00</td><td><strong>Break</strong><br></td></tr>
-    <tr><td>4:00 &#8211; 6:00</td><td><strong>Invited & Contributed Talks</strong> 
+    <tr><td>4:00 &#8211; 5:30</td><td><strong>Invited & Contributed Talks</strong> 
     <br> 
     (20 min) How can BERT Understand High-level Semantics? <a rel="noreferrer noopener" href="/assets/Paper_ID4.pdf" data-type="URL" target="_blank">paper</a> 
     <br> 
@@ -24,8 +24,9 @@ Workshop will be two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 
     <br> 
     (30 min) Flexible Operations for Natural Language Deduction <a rel="noreferrer noopener" href="/assets/Swarat.2021.nsnli.talk.pdf" data-type="URL" target="_blank">paper</a>
     </td></tr>
-    <tr><td>6:00 &#8211; 6:45</td><td><strong><span style="color: #ff6900">Keynote Talk 3</span>: Symbolic Scaffolds for Neural Commonsense Representation and Reasoning</strong><br><em>Antoine Bosselut</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
-    <tr><td>6:45 &#8211; 7:15</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>
+    <tr><td>5:30 &#8211; 6:15</td><td><strong><span style="color: #ff6900">Keynote Talk 3</span>: Symbolic Scaffolds for Neural Commonsense Representation and Reasoning</strong><br><em>Antoine Bosselut</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
+    <tr><td>6:15 &#8211; 6:45</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>
+    <tr><td>6:45 &#8211; 7:00</td><td><strong>Closing of Session 1</strong><br></td></tr>
 </tbody>    
 </table>
 Schedule for the second Half-day session on August 22 (6:30 am &#8211; 9:30 am UTC).
