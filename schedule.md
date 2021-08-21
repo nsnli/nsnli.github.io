@@ -47,7 +47,8 @@ Schedule for the second Half-day session on August 22 (6:00 am &#8211; 9:30 am U
     (20 mins) Perception, Inference, and Memory: The Trinity of Machine Learning <a rel="noreferrer noopener" href="/assets/Paper_ID5.pdf" data-type="URL" target="_blank">paper</a> 
     <br>
     (20 min) A Generative-Symbolic Model for Logical Reasoning in NLU <a rel="noreferrer noopener" href="/assets/Paper_ID2.pdf" data-type="URL" target="_blank">paper</a> <br> 
-    (20 min) Multi-hop Reasoning Analysis Based on The Bayesian Probability <a rel="noreferrer noopener" href="/assets/Paper_ID3.pdf" data-type="URL" target="_blank">paper</a> 
+    (20 min) Exploring Multi-hop Reasoning Process in NLU from the View of Bayesian Probability
+ <a rel="noreferrer noopener" href="/assets/Paper_ID3.pdf" data-type="URL" target="_blank">paper</a> 
     </td></tr>
     <tr><td>8:30 &#8211; 8:50</td><td><strong>Break</strong><br></td></tr>
     <tr><td>8:50 &#8211; 9:15</td><td><strong>Open-Floor Q&amp;A</strong><br></td></tr>  
