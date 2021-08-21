@@ -14,7 +14,9 @@ Workshop is starting in 30 minutes in virtual space (<span style="color:#00ff00"
 <table class="wp-block-table">
 <tbody>
     <tr><td>2:00 &#8211; 2:15</td><td><strong>Welcome &amp; Introduction</strong><br></td></tr>
-    <tr><td>2:15 &#8211; 3:00</td><td><strong><span style="color: #ff6900">Keynote Talk 1</span>: Neuro-symbolic models for understanding complex questions</strong><br><em>Jonathan Berant</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
+    <tr><td>2:15 &#8211; 3:00</td><td><strong><span style="color: #ff6900">Keynote Talk 1</span>: Neuro-symbolic models for understanding complex questions</strong><br><em>Jonathan Berant</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> 
+    <a href="/assets/Jonathan.Berant.Talk.NSNLI21.pdf" target="_blank">slides</a>
+    </td></tr>
     <tr><td>3:00 &#8211; 3:45</td><td><strong><span style="color: #ff6900">Keynote Talk 2</span>: Knowledge-enhanced Text Generation: The Curious Case of Figurative Language and Argumentation</strong><br><em>Smaranda Muresan</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
     <tr><td>3:45 &#8211; 4:00</td><td><strong>Break</strong><br></td></tr>
     <tr><td>4:00 &#8211; 5:30</td><td><strong>Invited & Contributed Talks</strong> 
