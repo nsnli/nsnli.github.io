@@ -32,7 +32,7 @@ Workshop is starting in 30 minutes in virtual space (<span style="color:#00ff00"
     <tr><td>6:55 &#8211; 7:00</td><td><strong>Closing of Session 1</strong><br></td></tr>
 </tbody>    
 </table>
-Schedule for the second Half-day session on August 22 (6:30 am &#8211; 9:30 am UTC).
+Schedule for the second Half-day session on August 22 (6:00 am &#8211; 9:30 am UTC).
 <!-- </figure> -->
 <table class="wp-block-table">
 <tbody>
