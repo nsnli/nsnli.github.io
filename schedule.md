@@ -7,10 +7,11 @@ css: /assets/css/taggedfilter.css
 ---
 
 <h2>Schedule</h2>
-
+<span style="color:#ff0000"><b> Workshop Session 2 is starting in another 30 minutes </b></span>!!!<br>
 <p style="border:1px; border-style:solid; border-color:#005cb9; padding: 1em; background-color:#f1f5f9"> For any technical difficulties with joining the workshop, please email <b>nsnli.ijcai21@gmail.com</b>.</p>
 <!-- <figure class="wp-block-table"> -->
-Workshop will be in virtual space (<span style="color:#00ff00">Green Room #2</span>, access through <a href="https://virtualchair.gather.town/app/TAwbSC4t4BL2aJQz/ijcai-2021">IJCAI Virtual Chair Gather Town</a>) two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (6 am &#8211; 9:30 am UTC). 
+
+ Workshop is in virtual space (<span style="color:#00ff00">Green Room #2</span>, access through <a href="https://virtualchair.gather.town/app/TAwbSC4t4BL2aJQz/ijcai-2021">IJCAI Virtual Chair Gather Town</a>) two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (6 am &#8211; 9:30 am UTC). 
 <table class="wp-block-table">
 <tbody>
     <tr><td>2:00 &#8211; 2:15</td><td><strong>Welcome &amp; Introduction</strong><br></td></tr>
