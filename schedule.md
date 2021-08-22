@@ -7,7 +7,7 @@ css: /assets/css/taggedfilter.css
 ---
 
 <h2>Schedule</h2>
-<span style="color:#ff0000"><b> Workshop Session 2 is starting in another 30 minutes </b></span>!!!<br>
+<span style="color:#ff0000"><b> Workshop Session 2 is starting in another 5 minutes </b></span>!!!<br>
 <p style="border:1px; border-style:solid; border-color:#005cb9; padding: 1em; background-color:#f1f5f9"> For any technical difficulties with joining the workshop, please email <b>nsnli.ijcai21@gmail.com</b>.</p>
 <!-- <figure class="wp-block-table"> -->
 
