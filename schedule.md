@@ -27,7 +27,9 @@ css: /assets/css/taggedfilter.css
     <br> 
     (30 min) Flexible Operations for Natural Language Deduction <a rel="noreferrer noopener" href="/assets/Swarat.2021.nsnli.talk.pdf" data-type="URL" target="_blank">paper</a>
     </td></tr>
-    <tr><td>5:30 &#8211; 6:15</td><td><strong><span style="color: #ff6900">Keynote Talk 3</span>: Symbolic Scaffolds for Neural Commonsense Representation and Reasoning</strong><br><em>Antoine Bosselut</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
+    <tr><td>5:30 &#8211; 6:15</td><td><strong><span style="color: #ff6900">Keynote Talk 3</span>: Symbolic Scaffolds for Neural Commonsense Representation and Reasoning</strong><br><em>Antoine Bosselut</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> 
+    <a rel="noreferrer noopener" href="https://drive.google.com/u/0/uc?id=1ROXYnXYVHUzutYlwkH5li-ElcN7-wfNB&export=download" data-type="URL">slides</a>
+    </td></tr>
     <tr><td>6:15 &#8211; 6:55</td><td><strong>Open-Floor Q&amp;A with Keynote and Invited Speakers</strong><br> Host: Dr. Monojit Choudhury</td></tr>
     <tr><td>6:55 &#8211; 7:00</td><td><strong>Closing of Session 1</strong><br></td></tr>
 </tbody>    
