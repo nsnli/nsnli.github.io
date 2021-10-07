@@ -7,7 +7,7 @@ css: /assets/css/taggedfilter.css
 ---
 
 <h2>Schedule</h2>
-<span style="color:#0000ff"> Workshop has ended. A short summary is available <u><a rel="noreferrer noopener" href="/assets/NSNLI_Session_summary.pdf" data-type="URL" target="_blank">here</a></u>!!</span><br>
+<span style="color:#0000ff"> Workshop has ended. All Keynote talk slides are available below. A short summary is available <u><a rel="noreferrer noopener" href="/assets/NSNLI_Session_summary.pdf" data-type="URL" target="_blank">here</a></u>!!</span><br>
 <!-- <figure class="wp-block-table"> -->
 
  Workshop is in virtual space (<span style="color:#00ff00">Green Room #2</span>, access through <a href="https://virtualchair.gather.town/app/TAwbSC4t4BL2aJQz/ijcai-2021">IJCAI Virtual Chair Gather Town</a>) two half-days: August 21 (2 pm &#8211; 8:00 pm UTC) and August 22 (6 am &#8211; 9:30 am UTC). 
@@ -17,7 +17,9 @@ css: /assets/css/taggedfilter.css
     <tr><td>2:15 &#8211; 3:00</td><td><strong><span style="color: #ff6900">Keynote Talk 1</span>: Neuro-symbolic models for understanding complex questions</strong><br><em>Jonathan Berant</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> 
     <a href="/assets/Jonathan.Berant.Talk.NSNLI21.pdf" target="_blank">slides</a>
     </td></tr>
-    <tr><td>3:00 &#8211; 3:45</td><td><strong><span style="color: #ff6900">Keynote Talk 2</span>: Knowledge-enhanced Text Generation: The Curious Case of Figurative Language and Argumentation</strong><br><em>Smaranda Muresan</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> </td></tr>
+    <tr><td>3:00 &#8211; 3:45</td><td><strong><span style="color: #ff6900">Keynote Talk 2</span>: Knowledge-enhanced Text Generation: The Curious Case of Figurative Language and Argumentation</strong><br><em>Smaranda Muresan</em><br><a rel="noreferrer noopener" href="https://nsnli.github.io/speakers/" data-type="URL" data-id="https://nsnli.github.io/speakers/">abstract</a> 
+    <a href="/assets/keynoteMuresan-IJCAI.pdf" target="_blank">slides</a>
+    </td></tr>
     <tr><td>3:45 &#8211; 4:00</td><td><strong>Break</strong><br></td></tr>
     <tr><td>4:00 &#8211; 5:30</td><td><strong>Invited & Contributed Talks</strong> 
     <br> 
